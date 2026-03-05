@@ -1,1 +1,25 @@
 @import "tailwindcss";
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap');
+
+@theme {
+  --color-primary: #e50615;
+  --color-secondary: #1c0d0e;
+  --color-background-light: #f8f5f6;
+  --color-background-dark: #230f11;
+  --color-google-yellow: #fbbf24;
+  
+  --font-sans: "Montserrat", sans-serif;
+  --font-display: "Montserrat", sans-serif;
+}
+
+@layer base {
+  body {
+    @apply font-sans bg-background-light dark:bg-background-dark text-secondary dark:text-white transition-colors duration-300;
+  }
+}
+
+.material-symbols-outlined {
+  font-variation-settings: 'FILL' 1, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+}
