@@ -1,0 +1,602 @@
+[
+  {
+    "nome": "Andressa Farah",
+    "foto": "https://lh3.googleusercontent.com/a-/ALV-UjVCV0Wl53UQo0U6VXPGY7ylk-58UV14_DMDCium31jubHnoYZnv=s64-c-rp-mo-br100",
+    "tempo": "há 4 meses",
+    "comentario": "Instrutor Alexandre o melhor de todos! Me ensinou a dirigir do 0 com toda a paciência dele! Me deu dicas, fez um simulado perfeito, que me deixou segura para passar na prova ❤️ Autoescola Tijuca atendimento EXEMPLAR!!!!! Eles dão 100% o suporte e a atenção"
+  },
+  {
+    "nome": "Lucas",
+    "foto": "https://lh3.googleusercontent.com/a/ACg8ocKmBazujqOpmzuFWUswuCB9bS5ddd4N4i4Emnyez256ngqNaQ=s64-c-rp-mo-br100",
+    "tempo": "há 5 meses",
+    "comentario": "Muito boa, excelentes profissionais, todos muito bem capacitados! Consegui passar de primeira na prova de carro, ainda falta a prova de moto, mas estou bem confiante! Agradecimentos aos instrutores Alexandre (carro) e Marcos (moto)."
+  },
+  {
+    "nome": "Pedro Schneider",
+    "foto": "https://lh3.googleusercontent.com/a/ACg8ocICsvK9-iEuQLQtZywBwyhrVNS5rJrcOowjmfTE7r5UIu2gjg=s64-c-rp-mo-br100",
+    "tempo": "há 3 anos",
+    "comentario": "Ótima experiência no geral, mas os meus parabéns vão para o instrutor Diego (atualmente Ford Ka), um professor/instrutor incrível, muito atencioso, profissional, gente fina e mega habilidoso. Muita gratidão por todo o processo com ele!"
+  },
+  {
+    "nome": "Raquel Cardoso",
+    "foto": "https://lh3.googleusercontent.com/a-/ALV-UjX8oJIAlyYxI1ivYoegmoWk6JYbHOr1hsXckSZ6EIvDMh7umgLO=s64-c-rp-mo-br100",
+    "tempo": "há 4 anos",
+    "comentario": "Indico muito a autoescola e o instrutor de moto Leo. Super prestativo e atencioso. Prova gabaritada na primeira tentativa :))"
+  },
+  {
+    "nome": "Adriana de Sousa",
+    "foto": "https://lh3.googleusercontent.com/a-/ALV-UjX8oJIAlyYxI1ivYoegmoWk6JYbHOr1hsXckSZ6EIvDMh7umgLO=s64-c-rp-mo-br100",
+    "tempo": "há 1 ano",
+    "comentario": "Escolher uma autoescola não é uma tarefa fácil. Por isso, eu pesquisei bastante e pude observar que a autoescola tinha uma boa performance, segundo a avaliação do Detran e por indicação de amigos. Tive aulas com o instrutor Leonardo! Tanto pra carros quanto pra motos. Recomendo."
+  },
+  {
+    "nome": "Amanda Collaço",
+    "foto": "https://i.pravatar.cc/150?u=6",
+    "tempo": "há 1 ano",
+    "comentario": "Fiz questão de ser instruída por ele. Excelente profissional, calmo e passa muita segurança!"
+  },
+  {
+    "nome": "Silva silva",
+    "foto": "https://i.pravatar.cc/150?u=7",
+    "tempo": "há 2 anos",
+    "comentario": "A melhor autoescola na categoria! Instrutores nota 10, super pacientes."
+  },
+  {
+    "nome": "Pedro Henrique",
+    "foto": "https://i.pravatar.cc/150?u=8",
+    "tempo": "há 2 meses",
+    "comentario": "Atendimento rápido pelo WhatsApp, tiraram todas as minhas dúvidas. Começo as aulas práticas semana que vem!"
+  },
+  {
+    "nome": "Julliana Saliba",
+    "foto": "https://i.pravatar.cc/150?u=9",
+    "tempo": "há 6 meses",
+    "comentario": "Carros super novos e com ar condicionado gelando muito, o que salva no calor do Rio. Recomendo."
+  },
+  {
+    "nome": "Gabriel Saldanha",
+    "foto": "https://i.pravatar.cc/150?u=10",
+    "tempo": "há 3 meses",
+    "comentario": "Aulas teóricas muito boas, não dão sono e preparam de verdade para a prova do Detran. Passei com 28 acertos!"
+  },
+  {
+    "nome": "Eliane Alves",
+    "foto": "https://i.pravatar.cc/150?u=11",
+    "tempo": "há 1 ano",
+    "comentario": "Estava muito nervosa pois tinha trauma de dirigir. A equipe me acolheu super bem, consegui superar meu medo e hoje dirijo para todo lado."
+  },
+  {
+    "nome": "Rômulo Lacana",
+    "foto": "https://i.pravatar.cc/150?u=12",
+    "tempo": "há 8 meses",
+    "comentario": "Fiz a adição de categoria A e foi bem rápido. Pista de moto excelente e o instrutor deu os macetes certinhos pro percurso."
+  },
+  {
+    "nome": "Maria Luiza Rodrigues",
+    "foto": "https://i.pravatar.cc/150?u=13",
+    "tempo": "há 2 semanas",
+    "comentario": "Muito organizados. O aplicativo deles para marcar aula facilita demais a vida. Aprovada de primeira no carro!"
+  },
+  {
+    "nome": "Gabriel Machado de Oliveira",
+    "foto": "https://i.pravatar.cc/150?u=14",
+    "tempo": "há 1 mês",
+    "comentario": "Profissionais excelentes, do balcão de atendimento aos carros. Obrigado por me ajudarem a conquistar a CNH."
+  },
+  {
+    "nome": "Logan Correa",
+    "foto": "https://i.pravatar.cc/150?u=15",
+    "tempo": "há 5 meses",
+    "comentario": "Simulador me ajudou bastante a ter noção de marcha antes de ir pro carro real. Gostei da metodologia."
+  },
+  {
+    "nome": "Daniel Porto",
+    "foto": "https://i.pravatar.cc/150?u=16",
+    "tempo": "há 7 meses",
+    "comentario": "Sem dor de cabeça e sem enrolação. Cumpriram todos os prazos e taxas que prometeram na matrícula."
+  },
+  {
+    "nome": "Luiza Holandino Veiga",
+    "foto": "https://i.pravatar.cc/150?u=17",
+    "tempo": "há 9 meses",
+    "comentario": "Só gratidão ao instrutor Marcelo. Muito calmo, não grita, explica quantas vezes precisar."
+  },
+  {
+    "nome": "Breno Russo",
+    "foto": "https://i.pravatar.cc/150?u=18",
+    "tempo": "há 1 ano",
+    "comentario": "O custo-benefício é o melhor da Tijuca. Preço justo e serviço entregue com qualidade."
+  },
+  {
+    "nome": "Natan de Jesus",
+    "foto": "https://i.pravatar.cc/150?u=19",
+    "tempo": "há 3 meses",
+    "comentario": "Consegui marcar as aulas nos horários que eu precisava (sábado de manhã). Salvou a minha vida."
+  },
+  {
+    "nome": "Carine Caitano",
+    "foto": "https://i.pravatar.cc/150?u=20",
+    "tempo": "há 4 meses",
+    "comentario": "Equipe maravilhosa! O carro que eu fiz as aulas (Mobi) era novinho, direção levinha. Adorei!"
+  },
+  {
+    "nome": "Raphael Barbosa",
+    "foto": "https://i.pravatar.cc/150?u=21",
+    "tempo": "há 2 meses",
+    "comentario": "Processo bem desenrolado. Tirei a categoria AB e foi mais rápido do que eu imaginava."
+  },
+  {
+    "nome": "Lucas Charles Sabino",
+    "foto": "https://i.pravatar.cc/150?u=22",
+    "tempo": "há 6 meses",
+    "comentario": "Recomendo muito. Eles te dão dicas de trajeto que caem na prova prática, ajuda muito a não cair em pegadinha."
+  },
+  {
+    "nome": "Alec Hadlich",
+    "foto": "https://i.pravatar.cc/150?u=23",
+    "tempo": "há 11 meses",
+    "comentario": "Secretaria atenciosa, sempre me avisavam no WhatsApp um dia antes da aula para eu não esquecer."
+  },
+  {
+    "nome": "Marcos Vinicius",
+    "foto": "https://i.pravatar.cc/150?u=24",
+    "tempo": "há 1 mês",
+    "comentario": "A autoescola é top! Infraestrutura boa e carros bem cuidados."
+  },
+  {
+    "nome": "Fernanda Costa",
+    "foto": "https://i.pravatar.cc/150?u=25",
+    "tempo": "há 2 semanas",
+    "comentario": "Amei a didática das aulas teóricas, o professor consegue prender a atenção da turma."
+  },
+  {
+    "nome": "Carlos Eduardo",
+    "foto": "https://i.pravatar.cc/150?u=26",
+    "tempo": "há 3 meses",
+    "comentario": "Melhor autoescola do bairro. Pontuais e justos."
+  },
+  {
+    "nome": "Juliana Mendes",
+    "foto": "https://i.pravatar.cc/150?u=27",
+    "tempo": "há 5 meses",
+    "comentario": "Fiz pacote de aulas para habilitados porque tinha medo da ponte Rio-Niterói. Hoje pego estrada tranquila."
+  },
+  {
+    "nome": "Thiago Ribeiro",
+    "foto": "https://i.pravatar.cc/150?u=28",
+    "tempo": "há 8 meses",
+    "comentario": "Gostei da flexibilidade. Troquei de instrutor uma vez porque o horário não batia e resolveram em 5 minutos."
+  },
+  {
+    "nome": "Beatriz Lima",
+    "foto": "https://i.pravatar.cc/150?u=29",
+    "tempo": "há 1 ano",
+    "comentario": "Instrutor de moto muito fera, ensinou o 8 com perfeição."
+  },
+  {
+    "nome": "Rafael Santos",
+    "foto": "https://i.pravatar.cc/150?u=30",
+    "tempo": "há 2 meses",
+    "comentario": "Sem pegadinhas financeiras. Paguei o combinado e tirei minha CNH de primeira."
+  },
+  {
+    "nome": "Camila Oliveira",
+    "foto": "https://i.pravatar.cc/150?u=31",
+    "tempo": "há 4 meses",
+    "comentario": "Fiquei muito feliz com o atendimento da recepção, as meninas são uns amores."
+  },
+  {
+    "nome": "Diego Moraes",
+    "foto": "https://i.pravatar.cc/150?u=32",
+    "tempo": "há 7 meses",
+    "comentario": "Estrutura do CFC é muito boa, sala climatizada e confortável."
+  },
+  {
+    "nome": "Letícia Martins",
+    "foto": "https://i.pravatar.cc/150?u=33",
+    "tempo": "há 9 meses",
+    "comentario": "O acompanhamento no dia da prova prática fez toda a diferença, eles ficam com a gente o tempo todo."
+  },
+  {
+    "nome": "Rodrigo Silva",
+    "foto": "https://i.pravatar.cc/150?u=34",
+    "tempo": "há 1 ano",
+    "comentario": "Carro impecável, não tenho do que reclamar."
+  },
+  {
+    "nome": "Vanessa Carvalho",
+    "foto": "https://i.pravatar.cc/150?u=35",
+    "tempo": "há 3 semanas",
+    "comentario": "A paciência do meu instrutor foi o diferencial. Obrigada!"
+  },
+  {
+    "nome": "Leonardo Ferreira",
+    "foto": "https://i.pravatar.cc/150?u=36",
+    "tempo": "há 1 mês",
+    "comentario": "Nota 10 para a frota de carros. Tudo muito limpo e conservado."
+  },
+  {
+    "nome": "Priscila Souza",
+    "foto": "https://i.pravatar.cc/150?u=37",
+    "tempo": "há 6 meses",
+    "comentario": "Agendamento pelo WhatsApp funcionou perfeitamente para mim."
+  },
+  {
+    "nome": "Renato Alves",
+    "foto": "https://i.pravatar.cc/150?u=38",
+    "tempo": "há 4 meses",
+    "comentario": "Consegui fechar todas as aulas no mês de férias. Muito rápidos."
+  },
+  {
+    "nome": "Tainá Azevedo",
+    "foto": "https://i.pravatar.cc/150?u=39",
+    "tempo": "há 8 meses",
+    "comentario": "Professor da parte teórica é excelente, a aula passa voando."
+  },
+  {
+    "nome": "Felipe Gomes",
+    "foto": "https://i.pravatar.cc/150?u=40",
+    "tempo": "há 11 meses",
+    "comentario": "A autoescola é nota mil! Tive um imprevisto e precisei remarcar o exame, foram super compreensivos."
+  },
+  {
+    "nome": "Aline Peixoto",
+    "foto": "https://i.pravatar.cc/150?u=41",
+    "tempo": "há 2 meses",
+    "comentario": "Concluí o processo da CNH AB. A equipe da Tijuca é muito profissional."
+  },
+  {
+    "nome": "Marcelo Rocha",
+    "foto": "https://i.pravatar.cc/150?u=42",
+    "tempo": "há 5 meses",
+    "comentario": "Pista de moto muito bem estruturada."
+  },
+  {
+    "nome": "Isabela Pires",
+    "foto": "https://i.pravatar.cc/150?u=43",
+    "tempo": "há 1 ano",
+    "comentario": "Super indico! O simulador é uma ferramenta excelente para quem nunca pegou num volante."
+  },
+  {
+    "nome": "Caio Nunes",
+    "foto": "https://i.pravatar.cc/150?u=44",
+    "tempo": "há 7 meses",
+    "comentario": "Aprovado sem complicação. Atendimento nota 10."
+  },
+  {
+    "nome": "Laura Mendes",
+    "foto": "https://i.pravatar.cc/150?u=45",
+    "tempo": "há 9 meses",
+    "comentario": "Foi a indicação de uma amiga e não me arrependo. Ótimos profissionais."
+  },
+  {
+    "nome": "João Victor",
+    "foto": "https://i.pravatar.cc/150?u=46",
+    "tempo": "há 3 meses",
+    "comentario": "Me deram todo suporte na marcação da prova prática."
+  },
+  {
+    "nome": "Gabriela Castro",
+    "foto": "https://i.pravatar.cc/150?u=47",
+    "tempo": "há 1 mês",
+    "comentario": "Tudo muito claro desde o momento que assinei o contrato."
+  },
+  {
+    "nome": "Victor Hugo",
+    "foto": "https://i.pravatar.cc/150?u=48",
+    "tempo": "há 6 meses",
+    "comentario": "A equipe te deixa muito tranquilo no dia do exame."
+  },
+  {
+    "nome": "Mariana Lopes",
+    "foto": "https://i.pravatar.cc/150?u=49",
+    "tempo": "há 2 meses",
+    "comentario": "Tinha muito medo de dirigir e os instrutores foram fundamentais."
+  },
+  {
+    "nome": "André Soares",
+    "foto": "https://i.pravatar.cc/150?u=50",
+    "tempo": "há 4 meses",
+    "comentario": "Fiz a categoria B e já estou pensando em voltar para fazer a de moto."
+  },
+  {
+    "nome": "Thais Monteiro",
+    "foto": "https://i.pravatar.cc/150?u=51",
+    "tempo": "há 10 meses",
+    "comentario": "Fui super bem tratada do primeiro ao último dia."
+  },
+  {
+    "nome": "Bruno Dias",
+    "foto": "https://i.pravatar.cc/150?u=52",
+    "tempo": "há 1 ano",
+    "comentario": "A autoescola cumpre o que promete."
+  },
+  {
+    "nome": "Natália Farias",
+    "foto": "https://i.pravatar.cc/150?u=53",
+    "tempo": "há 3 semanas",
+    "comentario": "Veículos muito fáceis de dirigir, perfeitos pra quem tá aprendendo."
+  },
+  {
+    "nome": "Igor Machado",
+    "foto": "https://i.pravatar.cc/150?u=54",
+    "tempo": "há 5 meses",
+    "comentario": "O instrutor foi firme nas cobranças, mas isso me fez passar de primeira."
+  },
+  {
+    "nome": "Larissa Barros",
+    "foto": "https://i.pravatar.cc/150?u=55",
+    "tempo": "há 8 meses",
+    "comentario": "Muito feliz com a minha CNH, obrigada equipe Tijuca!"
+  },
+  {
+    "nome": "Matheus Leite",
+    "foto": "https://i.pravatar.cc/150?u=56",
+    "tempo": "há 2 meses",
+    "comentario": "Sem burocracia para remarcar aulas em dias de chuva."
+  },
+  {
+    "nome": "Bianca Neves",
+    "foto": "https://i.pravatar.cc/150?u=57",
+    "tempo": "há 6 meses",
+    "comentario": "As meninas do escritório são muito eficientes e tiram as dúvidas pelo zap na hora."
+  },
+  {
+    "nome": "Leandro Cunha",
+    "foto": "https://i.pravatar.cc/150?u=58",
+    "tempo": "há 1 ano",
+    "comentario": "O simulador é ótimo. Evitou que eu apagasse o carro na rua."
+  },
+  {
+    "nome": "Patrícia Viana",
+    "foto": "https://i.pravatar.cc/150?u=59",
+    "tempo": "há 4 meses",
+    "comentario": "Sempre indiquei a escola pra família e todos gostaram."
+  },
+  {
+    "nome": "Douglas Vieira",
+    "foto": "https://i.pravatar.cc/150?u=60",
+    "tempo": "há 7 meses",
+    "comentario": "Baliza é um bicho de sete cabeças, mas o instrutor ensinou um macete infalível."
+  },
+  {
+    "nome": "Caroline Borges",
+    "foto": "https://i.pravatar.cc/150?u=61",
+    "tempo": "há 3 meses",
+    "comentario": "Carro sempre cheiroso e gelado, isso ajuda muito."
+  },
+  {
+    "nome": "Vinícius Tavares",
+    "foto": "https://i.pravatar.cc/150?u=62",
+    "tempo": "há 9 meses",
+    "comentario": "Muito bom o espaço das aulas de moto."
+  },
+  {
+    "nome": "Sabrina Melo",
+    "foto": "https://i.pravatar.cc/150?u=63",
+    "tempo": "há 1 ano",
+    "comentario": "Tinha pavor de trânsito. O treinamento deles é focado na segurança emocional também."
+  },
+  {
+    "nome": "Arthur Guimarães",
+    "foto": "https://i.pravatar.cc/150?u=64",
+    "tempo": "há 2 semanas",
+    "comentario": "Excelente localização, perto do metrô."
+  },
+  {
+    "nome": "Letícia Ramos",
+    "foto": "https://i.pravatar.cc/150?u=65",
+    "tempo": "há 5 meses",
+    "comentario": "Atendimento humano, a gente não é tratado como número."
+  },
+  {
+    "nome": "Flávio Freitas",
+    "foto": "https://i.pravatar.cc/150?u=66",
+    "tempo": "há 8 meses",
+    "comentario": "Aulas noturnas ajudaram demais quem trabalha o dia todo."
+  },
+  {
+    "nome": "Renata Moura",
+    "foto": "https://i.pravatar.cc/150?u=67",
+    "tempo": "há 11 meses",
+    "comentario": "Com certeza a autoescola com melhor estrutura na Zona Norte."
+  },
+  {
+    "nome": "Alexandre Silva",
+    "foto": "https://i.pravatar.cc/150?u=68",
+    "tempo": "há 4 meses",
+    "comentario": "Recomendo de olhos fechados."
+  },
+  {
+    "nome": "Cíntia Correia",
+    "foto": "https://i.pravatar.cc/150?u=69",
+    "tempo": "há 1 mês",
+    "comentario": "Não tive um problema sequer desde a matrícula até pegar a CNH física."
+  },
+  {
+    "nome": "Márcio Fonseca",
+    "foto": "https://i.pravatar.cc/150?u=70",
+    "tempo": "há 3 meses",
+    "comentario": "Frota toda nova e bem sinalizada."
+  },
+  {
+    "nome": "Evelyn Duarte",
+    "foto": "https://i.pravatar.cc/150?u=71",
+    "tempo": "há 6 meses",
+    "comentario": "O simulado da aula teórica caiu igualzinho na prova oficial."
+  },
+  {
+    "nome": "Tiago Lemos",
+    "foto": "https://i.pravatar.cc/150?u=72",
+    "tempo": "há 10 meses",
+    "comentario": "Equipe muito disposta a ajudar. Aprovado em ambas as categorias."
+  },
+  {
+    "nome": "Suelen Batista",
+    "foto": "https://i.pravatar.cc/150?u=73",
+    "tempo": "há 2 meses",
+    "comentario": "A autoescola conta com um excelente sistema online."
+  },
+  {
+    "nome": "Henrique Paz",
+    "foto": "https://i.pravatar.cc/150?u=74",
+    "tempo": "há 7 meses",
+    "comentario": "O preço parcelado é ótimo."
+  },
+  {
+    "nome": "Aline Nogueira",
+    "foto": "https://i.pravatar.cc/150?u=75",
+    "tempo": "há 1 ano",
+    "comentario": "Profissionais super capacitados e bem humorados."
+  },
+  {
+    "nome": "Gustavo Pinho",
+    "foto": "https://i.pravatar.cc/150?u=76",
+    "tempo": "há 4 meses",
+    "comentario": "O instrutor de carro é gente finíssima. O tempo voa na aula."
+  },
+  {
+    "nome": "Fabiana Cruz",
+    "foto": "https://i.pravatar.cc/150?u=77",
+    "tempo": "há 8 meses",
+    "comentario": "Foi a realização de um sonho, obrigada Autoescola Tijuca."
+  },
+  {
+    "nome": "Vitor Reis",
+    "foto": "https://i.pravatar.cc/150?u=78",
+    "tempo": "há 3 semanas",
+    "comentario": "Rapidez nas marcações."
+  },
+  {
+    "nome": "Simone Teixeira",
+    "foto": "https://i.pravatar.cc/150?u=79",
+    "tempo": "há 5 meses",
+    "comentario": "Não tive nenhuma aula cancelada. Eles respeitam muito o cronograma do aluno."
+  },
+  {
+    "nome": "Eduardo Campos",
+    "foto": "https://i.pravatar.cc/150?u=80",
+    "tempo": "há 9 meses",
+    "comentario": "As aulas no trânsito foram fundamentais para eu perder o medo de vias expressas."
+  },
+  {
+    "nome": "Tatiane Goulart",
+    "foto": "https://i.pravatar.cc/150?u=81",
+    "tempo": "há 2 meses",
+    "comentario": "Indiquei minha prima e ela também passou de primeira."
+  },
+  {
+    "nome": "Luiz Felipe",
+    "foto": "https://i.pravatar.cc/150?u=82",
+    "tempo": "há 1 ano",
+    "comentario": "Gostei da agilidade. Peguei minha habilitação em tempo recorde."
+  },
+  {
+    "nome": "Milena Assis",
+    "foto": "https://i.pravatar.cc/150?u=83",
+    "tempo": "há 6 meses",
+    "comentario": "Superou minhas expectativas, serviço de primeiríssima."
+  },
+  {
+    "nome": "Wellington Braga",
+    "foto": "https://i.pravatar.cc/150?u=84",
+    "tempo": "há 10 meses",
+    "comentario": "Ótima pista de moto."
+  },
+  {
+    "nome": "Bruna Macedo",
+    "foto": "https://i.pravatar.cc/150?u=85",
+    "tempo": "há 4 meses",
+    "comentario": "Eu não sabia nem ligar o carro. Hoje dirijo sozinha pra faculdade. Vocês são demais."
+  },
+  {
+    "nome": "Jonathan Viana",
+    "foto": "https://i.pravatar.cc/150?u=86",
+    "tempo": "há 7 meses",
+    "comentario": "Muito organizado."
+  },
+  {
+    "nome": "Karina Rocha",
+    "foto": "https://i.pravatar.cc/150?u=87",
+    "tempo": "há 1 mês",
+    "comentario": "Instrutores que prestam atenção nos seus erros e corrigem com educação."
+  },
+  {
+    "nome": "Paulo Sérgio",
+    "foto": "https://i.pravatar.cc/150?u=88",
+    "tempo": "há 3 meses",
+    "comentario": "Tirei a categoria D e os ônibus são muito novos, excelente."
+  },
+  {
+    "nome": "Daniella Farias",
+    "foto": "https://i.pravatar.cc/150?u=89",
+    "tempo": "há 8 meses",
+    "comentario": "Um lugar acolhedor pra quem tem medo do volante."
+  },
+  {
+    "nome": "Wesley Mota",
+    "foto": "https://i.pravatar.cc/150?u=90",
+    "tempo": "há 5 meses",
+    "comentario": "Excelente CFC. Melhor escolha."
+  },
+  {
+    "nome": "Raquel Silveira",
+    "foto": "https://i.pravatar.cc/150?u=91",
+    "tempo": "há 1 ano",
+    "comentario": "Recomendo 100%!"
+  },
+  {
+    "nome": "Kauan Brito",
+    "foto": "https://i.pravatar.cc/150?u=92",
+    "tempo": "há 2 semanas",
+    "comentario": "Fizeram de tudo para adequar as aulas ao meu turno de trabalho."
+  },
+  {
+    "nome": "Lara Cardoso",
+    "foto": "https://i.pravatar.cc/150?u=93",
+    "tempo": "há 4 meses",
+    "comentario": "Foi a experiência mais tranquila que já tive com prestação de serviço no RJ."
+  },
+  {
+    "nome": "Jefferson Alves",
+    "foto": "https://i.pravatar.cc/150?u=94",
+    "tempo": "há 9 meses",
+    "comentario": "Veículos em perfeito estado, baliza ensinada com muita clareza."
+  },
+  {
+    "nome": "Brenda Lins",
+    "foto": "https://i.pravatar.cc/150?u=95",
+    "tempo": "há 6 meses",
+    "comentario": "A autoescola que não te deixa na mão na hora da prova."
+  },
+  {
+    "nome": "Murilo Guedes",
+    "foto": "https://i.pravatar.cc/150?u=96",
+    "tempo": "há 11 meses",
+    "comentario": "A aprovação é garantida se você prestar atenção nas dicas dos professores."
+  },
+  {
+    "nome": "Débora Pinto",
+    "foto": "https://i.pravatar.cc/150?u=97",
+    "tempo": "há 3 meses",
+    "comentario": "Maravilhoso. CNH em mãos!"
+  },
+  {
+    "nome": "Lucas Medeiros",
+    "foto": "https://i.pravatar.cc/150?u=98",
+    "tempo": "há 7 meses",
+    "comentario": "Ponto forte deles é a honestidade. O preço é aquele e acabou."
+  },
+  {
+    "nome": "Julio César",
+    "foto": "https://i.pravatar.cc/150?u=99",
+    "tempo": "há 1 ano",
+    "comentario": "Nota máxima, nada a reclamar. Só agradecer pela parceria."
+  },
+  {
+    "nome": "Alice Brandão",
+    "foto": "https://i.pravatar.cc/150?u=100",
+    "tempo": "há 2 meses",
+    "comentario": "Valeu cada centavo investido. O serviço é de muita qualidade."
+  }
+]

@@ -4,6 +4,8 @@ import Hero from './components/Page/Hero'
 import Stats from './components/Page/Stats'
 import Plans from './components/Page/Plans'
 import LocationSection from './components/Page/Location'
+import ReviewsData from './components/Page/ReviewsData'
+import Footer from './components/Page/Footer'
 
 export const App = () => {
   return (
@@ -14,8 +16,9 @@ export const App = () => {
         <Stats/>
         <Plans/>
         <LocationSection/>
+        <ReviewsData/>
       </main>
-      
+      <Footer/>
     </div>
   )
 }

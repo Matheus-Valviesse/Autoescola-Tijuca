@@ -30,7 +30,7 @@ const LocationSection = () => {
         className="mx-auto max-w-[1280px] px-6 md:px-12 flex flex-col md:flex-row gap-12"
       >
         
-        {/* Informações */}
+        {/* Informações de Texto */}
         <motion.div {...textAnim} className="w-full md:w-1/3 text-white space-y-8">
           <div>
             <h2 className="text-3xl font-black mb-4 font-display">Localização Privilegiada</h2>
@@ -74,7 +74,7 @@ const LocationSection = () => {
           {...mapAnim} 
           className="w-full md:w-2/3 h-[400px] rounded-xl overflow-hidden shadow-2xl border border-gray-800 relative bg-gray-900"
         >
-      
+         
           <iframe 
             title="Mapa de Localização"
             allowFullScreen="" 
