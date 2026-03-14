@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
+import { FaCheck } from "react-icons/fa";
 
 const containerAnim = {
   initial: { opacity: 0, y: 50 },
@@ -44,7 +45,7 @@ const PricingCard = ({ title, price, features, isFeatured, index }) => (
       {features.map((feature, i) => (
         <li key={i} className="flex items-start gap-2 text-sm text-gray-600">
           <span className={`material-symbols-outlined text-base shrink-0 ${isFeatured ? 'text-primary' : 'text-green-500'}`}>
-            check
+            <FaCheck />
           </span>
           {feature}
         </li>

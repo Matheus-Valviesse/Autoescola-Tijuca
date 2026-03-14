@@ -1,6 +1,10 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 
+import { FaMapLocationDot } from "react-icons/fa6";
+import { MdOutlineMapsHomeWork } from "react-icons/md";
+import { FaMapMarkerAlt } from "react-icons/fa";
+
 const containerAnim = {
   initial: { opacity: 0 },
   whileInView: { opacity: 1 },
@@ -41,28 +45,28 @@ const LocationSection = () => {
           
           <div className="space-y-6">
             <div className="flex gap-4">
-              <div className="mt-1 flex h-10 w-10 flex-none items-center justify-center rounded bg-primary/20 text-primary">
-                <span className="material-symbols-outlined">location_on</span>
+              <div className="mt-1 flex h-16 w-16 flex-none items-center justify-center rounded bg-primary/20 text-primary">
+                <FaMapLocationDot className='w-10 h-10'/>
               </div>
               <div>
                 <h4 className="font-bold text-lg font-display">Unidade Saens Peña</h4>
-                <p className="text-sm text-gray-400 mt-1 font-body">Rua Conde de Bonfim, 123<br />Tijuca, Rio de Janeiro - RJ</p>
+                <p className="text-sm text-gray-400 mt-1 font-body">Rua Conde de Itaguaí, n 13 - Lj A - Tijuca, Rio de Janeiro - RJ, 20511-200</p>
               </div>
             </div>
             
             <div className="flex gap-4">
-              <div className="mt-1 flex h-10 w-10 flex-none items-center justify-center rounded bg-primary/20 text-primary">
-                <span className="material-symbols-outlined">schedule</span>
+              <div className="mt-1 flex h-16 w-16 flex-none items-center justify-center rounded bg-primary/20 text-primary">
+                <MdOutlineMapsHomeWork className='w-10 h-10'/>
               </div>
               <div>
                 <h4 className="font-bold text-lg font-display">Horário de Atendimento</h4>
-                <p className="text-sm text-gray-400 mt-1 font-body">Seg - Sex: 08:00 - 20:00<br />Sáb: 08:00 - 14:00</p>
+                <p className="text-sm text-gray-400 mt-1 font-body">Seg - Sex: 08:00 - 18:00<br />Sáb: 08:00 - 12:00</p>
               </div>
             </div>
             
             <div className="pt-4">
-              <a className="inline-flex items-center gap-2 text-primary font-bold hover:text-white transition-colors font-body" href="#">
-                <span className="material-symbols-outlined">map</span>
+              <a  className="inline-flex items-center gap-2 text-primary font-bold hover:text-white transition-colors font-body" href="https://maps.app.goo.gl/TMArhQFuk4Weccbq7"  target='blank'>
+                <FaMapMarkerAlt className="w-6 h-6" />
                 Ver rotas no Google Maps
               </a>
             </div>
@@ -81,7 +85,7 @@ const LocationSection = () => {
             height="100%" 
             loading="lazy" 
             referrerPolicy="no-referrer-when-downgrade" 
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3674.520478052066!2d-43.2359419238381!3d-22.92408984090246!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x997e411b22e171%3A0xc3f834ecab3640e7!2sR.%20Conde%20de%20Bonfim%2C%20123%20-%20Tijuca%2C%20Rio%20de%20Janeiro%20-%20RJ%2C%2020520-050!5e0!3m2!1spt-BR!2sbr!4v1715000000000!5m2!1spt-BR!2sbr" 
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14698.512760339798!2d-43.243761943517036!3d-22.927080917850137!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x997e14ddedbcab%3A0x3b85b4b038918ed5!2sAUTO%20ESCOLA%20TIJUCA!5e0!3m2!1spt-PT!2sbr!4v1773449159551!5m2!1spt-PT!2sbr" 
             style={{ border: 0, filter: 'grayscale(100%) invert(90%) hue-rotate(180deg) brightness(90%) contrast(90%)' }} 
             width="100%"
           ></iframe>

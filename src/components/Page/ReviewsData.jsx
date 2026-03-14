@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-
+import { IoStar } from "react-icons/io5";
 import reviewsData from '../../data/comments.json';
 
 const ReviewsData = () => {
@@ -44,10 +44,10 @@ const ReviewsData = () => {
           
           <div className="flex items-center gap-4 bg-gray-50 dark:bg-[#230f11] px-6 py-4 rounded-xl border border-gray-200 dark:border-[#3a1a1d]">
             <div className="flex flex-col">
-              <span className="text-4xl font-black text-[#1c0d0e] dark:text-white">4.9</span>
+              <span className="text-4xl font-black text-[#1c0d0e] dark:text-white">4.7</span>
               <div className="flex text-yellow-400 text-sm">
                 {[...Array(5)].map((_, i) => (
-                  <span key={i} className="material-symbols-outlined text-lg">star</span>
+                  <IoStar/>
                 ))}
               </div>
             </div>
@@ -121,7 +121,7 @@ const ReviewsData = () => {
                       <h4 className="font-bold text-sm text-[#1c0d0e]  line-clamp-1">{review.nome}</h4>
                       <div className="flex text-yellow-400 text-xs">
                         {[...Array(5)].map((_, i) => (
-                          <span key={i} className="material-symbols-outlined text-sm">star</span>
+                          <IoStar/>
                         ))}
                       </div>
                     </div>
