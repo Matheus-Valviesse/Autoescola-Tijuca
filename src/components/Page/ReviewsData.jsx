@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { IoStar } from "react-icons/io5";
 import reviewsData from '../../data/comments.json';
+import { IoIosArrowForward , IoIosArrowBack } from "react-icons/io";
 
 const ReviewsData = () => {
   const [currentPage, setCurrentPage] = useState(0);
@@ -85,13 +86,13 @@ const ReviewsData = () => {
               onClick={prevPage}
               className="flex h-10 w-10 items-center justify-center rounded-full border border-gray-300 bg-white text-[#1c0d0e] hover:bg-primary hover:border-primary hover:text-white transition-colors"
             >
-              <span className="material-symbols-outlined">arrow_back</span>
+              <IoIosArrowBack className='w-full'/>
             </button>
             <button 
               onClick={nextPage}
               className="flex h-10 w-10 items-center justify-center rounded-full border border-gray-300 bg-white text-[#1c0d0e] hover:bg-primary hover:border-primary hover:text-white transition-colors"
             >
-              <span className="material-symbols-outlined">arrow_forward</span>
+              <IoIosArrowForward className='w-full'/>
             </button>
           </div>
         </div>

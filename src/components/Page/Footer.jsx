@@ -1,4 +1,5 @@
 import React from 'react';
+import logoSvg from '../../assets/logo-simple.svg';
 
 const Footer = () => {
   return (
@@ -9,9 +10,11 @@ const Footer = () => {
         <div className="space-y-6">
           <div className="flex items-center gap-4">
             {/* Logo Customizado */}
-            <div className="relative flex h-14 w-14 items-center justify-center bg-[#d32228] transform" style={{ clipPath: 'polygon(0 0, 100% 0, 85% 100%, 15% 100%)' }}>
-              <span className="text-3xl font-black text-white pt-1">M</span>
-            </div>
+           <img 
+              src={logoSvg} 
+              alt="Logo Auto Escola" 
+              className="h-14 w-auto object-contain" 
+            />
             <div className="leading-tight">
               <h2 className="text-[22px] font-bold tracking-tight text-white">Autoescola</h2>
               <span className="text-[20px] font-black text-[#d32228]">Tijuca</span>
