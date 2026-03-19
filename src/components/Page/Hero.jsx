@@ -1,6 +1,5 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import Button from '../ui/Button';
 import bgHero from '../../assets/fundo-hero.jpg';
 
 const containerAnim = {
@@ -21,17 +20,27 @@ const textAnim = {
   transition: { duration: 0.6, delay: 0.4 }
 };
 
-const btnWrapperAnim = {
+const btnEntranceAnim = {
   initial: { opacity: 0, scale: 0.8 },
   animate: { opacity: 1, scale: 1 },
-  transition: { duration: 0.5, delay: 0.6, type: "spring", bounce: 0.5 },
+  transition: { duration: 0.5, delay: 0.6, type: "spring", bounce: 0.5 }
+};
+
+// 2. Esse cuida só do mouse (vai e volta super rápido)
+const btnHoverAnim = {
   whileHover: { scale: 1.05 },
-  whileTap: { scale: 0.95 }
+  whileTap: { scale: 0.95 },
+  transition: { duration: 0.2 } 
 };
 
 const Hero = () => {
+
+  const phoneNumber = "5521964626002"; 
+  const defaultMessage = "Olá! Gostaria de tirar algumas dúvidas sobre a Auto Escola Tijuca.";
+  const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(defaultMessage)}`;
+
   return (
-    <section className="relative px-0 py-0 md:px-0">
+    <section className="relative px-0 py-0 md:px-0 mt-[80px]">
       <motion.div 
         {...containerAnim}
         className="relative w-full"
@@ -58,10 +67,10 @@ const Hero = () => {
               </motion.p>
               
               <div className="flex flex-wrap gap-4 pt-4">
-                <motion.div {...btnWrapperAnim}>
-                  <Button className="px-10 py-5 text-lg font-black shadow-xl uppercase tracking-wide">
+                <motion.div {...btnHoverAnim}>
+                  <motion.a {...btnEntranceAnim} target='blank' href={whatsappUrl} className="cursor-pointer bg-[#e50615] rounded-2xl px-8 py-5 text-[16px] font-black shadow-xl uppercase tracking-wide">
                     COMEÇAR AGORA
-                  </Button>
+                  </motion.a>
                 </motion.div>
               </div>
             </div>

@@ -11,7 +11,19 @@ const cardAnim = (index) => ({
 
 
 
-const PlanCard = ({ title, price, installments, features, isFeatured, index }) => {
+const PlanCard = ({ categoryName ,title, price, installments, features, isFeatured, index }) => {
+
+  const handleWhatsAppClick = () => {
+  
+    const telefone = "5521964626002"; 
+    
+    const mensagem = `Olá! Gostaria de saber mais sobre o plano *${title}* da categoria *${categoryName}*. Vi que o valor é R$ ${price}.`;
+    
+    const url = `https://wa.me/${telefone}?text=${encodeURIComponent(mensagem)}`;
+    
+    window.open(url, '_blank');
+  };
+
   return (
   <motion.div 
     {...cardAnim(index)}
@@ -51,7 +63,9 @@ const PlanCard = ({ title, price, installments, features, isFeatured, index }) =
       ))}
     </ul>
 
-    <button className={`w-full mt-auto py-4 rounded-xl font-bold transition-all ${
+    <button 
+      onClick={handleWhatsAppClick}
+      className={`w-full mt-auto py-4 rounded-xl font-bold transition-all cursor-pointer ${
       isFeatured 
         ? 'bg-primary text-white shadow-lg shadow-primary/30 hover:bg-red-700' 
         : 'border border-gray-200 text-gray-900 hover:bg-gray-50'

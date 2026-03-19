@@ -27,7 +27,7 @@ const Pricing = () => {
           const url = import.meta.env.VITE_API_PLANILHA;
           const response = await fetch(url);
           const rawData = await response.json();
-
+          
           const categoryMap = {
             'cat-b': '1ª Habilitação Carro (B)',
             'cat-a': '1ª Habilitação Moto (A)',
@@ -121,7 +121,12 @@ const Pricing = () => {
                   className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 xl:gap-6 items-stretch"
                 >
                   {pricingData[activeCategory] && pricingData[activeCategory].map((plan, index) => (
-                    <PlanCard key={`${activeCategory}-${plan.title}`} {...plan} index={index}/>
+                    <PlanCard 
+                    key={`${activeCategory}-${plan.title}`} 
+                    {...plan} 
+                    index={index}
+                    categoryName={activeCategory}
+                    />
                   ))}
               </motion.div>
             </AnimatePresence>
