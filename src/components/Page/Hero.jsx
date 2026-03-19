@@ -40,7 +40,7 @@ const Hero = () => {
   const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(defaultMessage)}`;
 
   return (
-    <section className="relative px-0 py-0 md:px-0 mt-[80px]">
+    <section id="inicio" className="relative px-0 py-0 md:px-0 mt-[80px]">
       <motion.div 
         {...containerAnim}
         className="relative w-full"

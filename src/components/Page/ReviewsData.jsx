@@ -33,7 +33,7 @@ const ReviewsData = () => {
     : [];
 
   return (
-    <section className="bg-white  px-6 py-20 md:px-20 border-t border-gray-100 dark:border-[#3a1a1d]">
+    <section id="depoimentos" className=" bg-white  px-6 py-20 md:px-20 border-t border-gray-100 dark:border-[#3a1a1d]">
       <div className="mx-auto max-w-[1200px]">
         
         {/* Cabeçalho do Google */}

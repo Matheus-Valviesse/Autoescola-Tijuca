@@ -28,7 +28,7 @@ const mapAnim = {
 
 const LocationSection = () => {
   return (
-    <section className="relative bg-[#1c1c1c] py-20" id="unidades">
+    <section className="relative bg-[#1c1c1c] py-20" id="localizacao">
       <motion.div 
         {...containerAnim}
         className="mx-auto max-w-[1280px] px-6 md:px-12 flex flex-col md:flex-row gap-12"
