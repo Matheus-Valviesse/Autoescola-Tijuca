@@ -21,7 +21,7 @@ const Footer = () => {
             </div>
           </div>
           <p className="text-sm text-gray-400 font-normal leading-relaxed">
-            Desde 1989 formando condutores com excelência e segurança. A melhor estrutura do Tijuca para você conquistar sua CNH.
+            Desde 1997 formando condutores com excelência e segurança. A melhor estrutura do Tijuca para você conquistar sua CNH.
           </p>
           <div className="flex gap-3 pt-2">
             <a href="https://www.instagram.com/cfctijuca?igsh=aXk2aGwxY2w0ZHk2" target='blank' className="flex h-10 w-10 items-center justify-center rounded-full bg-[#241a1a] hover:bg-[#d32228] transition-colors group">
@@ -68,7 +68,7 @@ const Footer = () => {
               </div>
               <div className="flex flex-col">
                 <span className="text-xs font-bold text-white uppercase tracking-wider mb-1">E-mail</span>
-                <span className="text-sm text-gray-400">autoescolameier@gmail.com</span>
+                <span className="text-sm text-gray-400">cfctijuca@gmail.com</span>
               </div>
             </div>
           </div>

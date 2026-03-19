@@ -49,7 +49,7 @@ const LocationSection = () => {
                 <FaMapLocationDot className='w-10 h-10'/>
               </div>
               <div>
-                <h4 className="font-bold text-lg font-display">Unidade Saens Peña</h4>
+                <h4 className="font-bold text-lg font-display">Unidade Tijuca</h4>
                 <p className="text-sm text-gray-400 mt-1 font-body">Rua Conde de Itaguaí, n 13 - Lj A - Tijuca, Rio de Janeiro - RJ, 20511-200</p>
               </div>
             </div>

@@ -36,7 +36,7 @@ const btnHoverAnim = {
 const Hero = () => {
 
   const phoneNumber = "5521964626002"; 
-  const defaultMessage = "Olá! Gostaria de tirar algumas dúvidas sobre a Auto Escola Tijuca.";
+  const defaultMessage = "Olá! Gostaria de tirar algumas dúvidas sobre a Autoescola Tijuca.";
   const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(defaultMessage)}`;
 
   return (
@@ -63,7 +63,7 @@ const Hero = () => {
                 {...textAnim}
                 className="text-lg md:text-xl font-medium text-white/90 leading-relaxed max-w-[600px] drop-shadow-md"
               >
-                A auto escola líder em aprovação no Rio de Janeiro. Método exclusivo e instrutores pacientes para você dirigir de verdade.
+                A autoescola líder em aprovação no Rio de Janeiro. Método exclusivo e instrutores pacientes para você dirigir de verdade.
               </motion.p>
               
               <div className="flex flex-wrap gap-4 pt-4">
